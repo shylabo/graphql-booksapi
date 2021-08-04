@@ -1,0 +1,27 @@
+{
+  "name": "graphql-booksapi",
+  "version": "1.0.0",
+  "description": "$ npm init",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shylabo/graphql-booksapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shylabo/graphql-booksapi/issues"
+  },
+  "homepage": "https://github.com/shylabo/graphql-booksapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
