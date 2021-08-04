@@ -21,3 +21,6 @@ scripts: {
 
 #server start
 $ npm run dev
+
+#access
+http://localhost:5000/graphql?
